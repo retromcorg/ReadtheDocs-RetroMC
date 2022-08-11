@@ -12,7 +12,7 @@ Issuing Punishments
 +-----------+----------------------------------------+
 | eBan      | /eban [username] (reason) (duration)   |
 +-----------+----------------------------------------+
-| Mute      | /mmute [username] (duration)           |
+| Mute      | /mute [username] (duration)           |
 +-----------+----------------------------------------+
 | Alts      | /e(history/alternative) [username]     |
 +-----------+----------------------------------------+
@@ -34,7 +34,7 @@ Logblock
 +--------------------+-------------------------------+
 | /lb rb             | Initiate a rollback           |
 +--------------------+-------------------------------+
-| /lb undo last      | Undo last rollback            |
+| /lb redo last      | Undo last rollback            |
 +--------------------+-------------------------------+
 
 
