@@ -58,7 +58,7 @@ Mute
 
 .. code-block:: none
 
-    !mute <user> <time> <reason>
+    !warn 2 <user> <time> <reason>
 
 Mutes a user, preventing them from talking (and viewing certain channels). You must disconnect the user if they are in voice.
 
@@ -74,7 +74,7 @@ Kick
 
 .. code-block:: none
 
-    !kick <user> <reason>
+    !warn 3 <user> <reason>
 
 Kicks remove the member from the server without deleting messages.
 
@@ -90,7 +90,7 @@ Softban
 
 .. code-block:: none
 
-    !softban <user> <reason>
+    !warn 4 <user> <reason>
 
 Softban removes a member from the server, deleting 1 day of messages.
 
@@ -106,7 +106,7 @@ Ban
 
 .. code-block:: none
     
-    !ban <user> <reason>
+    !warn 5 <user> <reason>
 
 Bans and DMs the user a link where they may appeal and purges 1 day of messages.
 
