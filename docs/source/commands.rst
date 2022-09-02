@@ -12,7 +12,7 @@ Issuing Punishments
 +-----------+----------------------------------------+
 | eBan      | /eban [username] (reason) (duration)   |
 +-----------+----------------------------------------+
-| Mute      | /mute [username] (duration)           |
+| Mute      | /mute [username] (duration)            |
 +-----------+----------------------------------------+
 | Alts      | /e(history/alternative) [username]     |
 +-----------+----------------------------------------+
