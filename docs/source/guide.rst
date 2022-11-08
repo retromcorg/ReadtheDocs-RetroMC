@@ -73,12 +73,12 @@ The Discord Moderation Academy is a great resource to reference when learning to
 
     • `Ban Evasion and Advanced Harrassment`_
 
-.. _`Moderator Etiquette`: https://discord.com/moderation/4405230698519-110:-Moderator-Etiquette
-.. _`Moderator Responsibilities`: https://discord.com/moderation/4405230544663-111:-Your-Responsibilities-as-a-Moderator
-.. _`Handling Difficult Scenarios`: https://discord.com/moderation/360060483713-202:-Handling-Difficult-Scenarios
-.. _`Avoiding Moderator Burnout`: https://discord.com/moderation/360058645534-311:-Understanding-and-Avoiding-Moderator-Burnout
-.. _`How to Moderate Voice Channels`: https://discord.com/moderation/4405269299351-313:-How-to-Moderate-Voice-Channels
-.. _`Ban Evasion and Advanced Harrassment`: https://discord.com/moderation/360060487093-443:-Ban-Evasion-and-Advanced-Harassment
+.. _`Moderator Etiquette`: https://discord.com/moderation/4405230698519-110-Moderator-Etiquette
+.. _`Moderator Responsibilities`: https://discord.com/moderation/4405230544663-111-Your-Responsibilities-as-a-Moderator
+.. _`Handling Difficult Scenarios`: https://discord.com/moderation/360060483713-202-Handling-Difficult-Scenarios
+.. _`Avoiding Moderator Burnout`: https://discord.com/moderation/360058645534-311-Understanding-and-Avoiding-Moderator-Burnout
+.. _`How to Moderate Voice Channels`: https://discord.com/moderation/4405269299351-313-How-to-Moderate-Voice-Channels
+.. _`Ban Evasion and Advanced Harrassment`: https://discord.com/moderation/360060487093-443-Ban-Evasion-and-Advanced-Harassment
 
 Code of Conduct
 ------------
